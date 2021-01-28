@@ -3,10 +3,10 @@ public class text {
     static String location = " in Abuja";
     static String school = mySchool + location;
 
-    static int jn1 = 300;
-    static int jn2 = 40;
-    static int mike1 = 343546;
-    static int mike2 = 353215;
+    static int jn1 = 100;
+    static int jn2 = 30;
+    static int mike1 = 33546;
+    static int mike2 = 3515;
     static int answer = mike1 + mike2;
     static int mike = mike2 - mike1;
     static int john = jn1 / jn2;
